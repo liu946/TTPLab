@@ -1,0 +1,6 @@
+{
+  "name": "TTPLab",
+  "command": {
+    "test": "echo no testing script"
+  }
+}
